@@ -1,0 +1,10 @@
+{
+    "search_delay": [
+        3,
+        7
+    ],
+    "page_load_timeout": 30,
+    "max_retries": 3,
+    "save_log": true,
+    "headless_mode": false
+}
